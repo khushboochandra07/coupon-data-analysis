@@ -4,7 +4,7 @@ Coupon data analysis reposittory investigates and creates independent hypothesis
 
 ## Jupyter Notebook
 
-Use the jupyternotebook\1_exploratory_analysis_coupons.ipynb to look at the results and findings
+Use the [jupyternotebook\1_exploratory_analysis_coupons.ipynb](https://github.com/khushboochandra07/coupon-data-analysis/blob/main/jupyternotebook/1_exploratory_analysis_coupons.ipynb) to look at the results and findings
 
 ## Findings from the analysis of acceptance coupon data
 
