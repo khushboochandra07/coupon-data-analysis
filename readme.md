@@ -1,6 +1,6 @@
 ## coupon-data-analysis
 
-Coupon data analysis reposittory investigates and creates independent hypothesis for coupons.csv data from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk
+Coupon data analysis repository investigates and creates independent hypothesis for coupons.csv data from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk
 
 ## Jupyter Notebook
 
