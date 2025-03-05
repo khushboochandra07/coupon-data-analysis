@@ -48,7 +48,7 @@ Use the [jupyternotebook\1_exploratory_analysis_coupons.ipynb](https://github.co
 *   Acceptance of the coupons may or moy not depend on the weather that day.
 
 
-
+# Copyright (c) Khushboo Chandra.
 
 
 
