@@ -8,6 +8,7 @@ Use the [jupyternotebook\1_exploratory_analysis_coupons.ipynb](https://github.co
 
 ## Findings from the analysis of acceptance coupon data
 
+*  Coupons acceptance negatively correlates with direction of drivers.
 *  Drivers going to no urgent place accepts the coupons more than others.
 *  Drivers with friends tend to accept coupons more.
 *  Weather plays a role in drivers accepting the coupons in general. On sunny days there is more acceptance.
